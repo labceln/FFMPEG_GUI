@@ -1,2 +1,2 @@
 # FFMPEG_GUI
-FFMPEGのフロントエンド
+RADIKOやらじるらじるを保存するときのFFMPEGのフロントエンド
